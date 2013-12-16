@@ -1,6 +1,6 @@
 {
   "name": "find-in-path",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Find a directory or file from the PATH and return the absolute path.",
   "main": "find-in-path.js",
   "scripts": {
