@@ -12,7 +12,7 @@ mod('netstat', function(err, path){
 });
 ````
 
-Prints `/bin` on linux;
+Prints `/bin/netstat` on linux;
 
 ##License
 ````
