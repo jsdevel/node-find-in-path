@@ -1,0 +1,22 @@
+{
+  "name": "find-in-path",
+  "version": "0.0.0",
+  "description": "Find a directory or file from the PATH and return the absolute path.",
+  "main": "find-in-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/node-find-in-path.git"
+  },
+  "keywords": [
+    "find",
+    "path"
+  ],
+  "author": "Joseph Spencer",
+  "license": "APACHE 2.0",
+  "bugs": {
+    "url": "https://github.com/jsdevel/node-find-in-path/issues"
+  }
+}
